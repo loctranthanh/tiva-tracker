@@ -1,1 +1,4 @@
 
+[submodule "tiva-library"]
+	path = tiva-library
+	url = git@github.com:loctranthanh/tiva-library.git
