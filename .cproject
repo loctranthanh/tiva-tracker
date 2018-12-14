@@ -41,15 +41,15 @@
 								</option>
 								<option id="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.INCLUDE_PATH.1707456684" name="Include paths (-I)" superClass="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.INCLUDE_PATH" valueType="includePath">
 									<listOptionValue builtIn="false" value="${PROJECT_ROOT}"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/tiva-log"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/tiva-log"/>
 									<listOptionValue builtIn="false" value="${CG_TOOL_INCLUDE_PATH}"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/tiva-peripheral/include"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/tiva-gps/GPS_NMEA_parser/src/include"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/tiva-gps"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/tiva-sim"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/tiva-peripheral/include"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/tiva-gps/GPS_NMEA_parser/src/include"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/tiva-gps"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/tiva-sim"/>
 									<listOptionValue builtIn="false" value="${TIVAWARE_INSTALL}"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/FreeRTOS/include"/>
-									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-libraries/FreeRTOS/portable/GCC/ARM_CM4F"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/FreeRTOS/include"/>
+									<listOptionValue builtIn="false" value="${PROJECT_LOC}/tiva-library/FreeRTOS/portable/GCC/ARM_CM4F"/>
 								</option>
 								<option id="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.OPT_LEVEL.1699712047" name="Optimization Level" superClass="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.OPT_LEVEL" value="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.OPT_LEVEL.OPT_FOR_DEBUG" valueType="enumerated"/>
 								<option id="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.DEBUG.2122481877" name="Generate debug information (-g)" superClass="com.ti.ccstudio.buildDefinitions.TMS470_GNU_7.0.compilerID.DEBUG" value="true" valueType="boolean"/>
